@@ -1,6 +1,9 @@
 #include <fauxmoESP.h>
 #include <ESP8266WiFi.h>
 
+// Amazon link to board:
+// https://www.amazon.com/KeeYees-Internet-Development-Wireless-Compatible/dp/B07HF44GBT/ref=sr_1_3?dchild=1&keywords=nodemcu&qid=1596047944&sr=8-3
+
 #define WIFI_ESSID "AP_ESSID"
 #define WIFI_PSK "WIFI_PSK"
 
